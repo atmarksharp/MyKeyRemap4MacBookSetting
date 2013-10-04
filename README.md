@@ -3,4 +3,4 @@ MyKeyRemap4MacBookSetting
 
 ## private.xml
 
-- swap Control_L and Command_L on VI, Terminal, RemoteDesktop, VirtualMachine
+- swap <b>Control_L</b> and <b>Command_L</b> on <i>VI, Terminal, RemoteDesktop, VirtualMachine</i>
