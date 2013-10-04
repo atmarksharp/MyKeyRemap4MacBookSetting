@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<item>
+	<name>KeyRemap4MacBook Developer</name>
+	<list>
+		<item>
+			<name>MyKeyMap</name>
+			<list>
+				<item>
+				<name>Command_L to Control_L (only VI, Terminal, Virtual Machine, RDC)</name>
+				<identifier>private.command_l_to_control_l_only_viterm</identifier>
+				<only>VI, TERMINAL, VIRTUALMACHINE, REMOTEDESKTOPCONNECTION</only>
+				<autogen>--KeyToKey-- KeyCode::COMMAND_L, KeyCode::CONTROL_L</autogen>
+				</item>
+				<item>
+				<name>Control_L to Command_L (only VI, Terminal, Virtual Machine, RDC)</name>
+				<identifier>private.control_l_to_command_l_only_viterm</identifier>
+				<only>VI, TERMINAL, VIRTUALMACHINE, REMOTEDESKTOPCONNECTION</only>
+				<autogen>--KeyToKey-- KeyCode::CONTROL_L, KeyCode::COMMAND_L</autogen>
+				</item>
+			</list>
+		</item>
+	</list>
+</item>
